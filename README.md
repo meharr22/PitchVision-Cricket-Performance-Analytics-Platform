@@ -36,12 +36,12 @@ repo/
 │   ├── t20_wc_bowling_summary.json
 │   └── t20_wc_player_info.json
 │
-├── preprocessing_nb/
+├── notebook/
 │   └── t20_data_preprocessing.ipynb
 │
 ├── csv_files/
 │   ├── dim_match_summary.csv
-│   ├── dim_players_no_images.csv
+│   ├── dim_players.csv
 │   ├── fact_bating_summary.csv
 │   └── fact_bowling_summary.csv
 │
